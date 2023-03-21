@@ -1,5 +1,7 @@
 CREATE TABLE Subject
 (
-Sub_ID INT, 
+Sub_ID INT,
+Sub_Phone INT,
+sub_Address varchar(20)
 Sub_Name varchar(20)
 );

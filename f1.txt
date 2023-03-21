@@ -1,0 +1,5 @@
+CREATE TABLE Subject
+(
+Sub_ID INT, 
+Sub_Name varchar(20)
+);
